@@ -1,8 +1,6 @@
-Hello! :wave:
-
 # About
 
-My name is Dan Atkinson, I live in Yorkshire, UK with my wife and son. I'm a software engineer and have been working as a full-stack developer since about 2006 following studying in [University of Lincoln](https://www.youtube.com/watch?v=O5fzmmrk6kk). The majority of my work involves working in [.NET](https://en.wikipedia.org/wiki/.NET_Framework) (Framework and Core), [Angular](https://github.com/angular/angular), [AngularJs](https://github.com/angular/angularjs), [jQuery](https://github.com/jquery/jquery), [Bootstrap](https://github.com/bootstrap), and a bit of scripting (almost entirely [PowerShell](https://github.com/powershell/powershell)).
+Hello! :wave: My name is Dan Atkinson, I live in Yorkshire, UK with my wife and son. I'm a software engineer and have been working as a full-stack developer since about 2006 following studying in [University of Lincoln](https://www.youtube.com/watch?v=O5fzmmrk6kk). The majority of my work involves working in [.NET](https://en.wikipedia.org/wiki/.NET_Framework) (Framework and Core), [Angular](https://github.com/angular/angular), [AngularJs](https://github.com/angular/angularjs), [jQuery](https://github.com/jquery/jquery), [Bootstrap](https://github.com/bootstrap), and a bit of scripting (almost entirely [PowerShell](https://github.com/powershell/powershell)).
 
 # Where can you find me?
 
