@@ -10,7 +10,7 @@ Depending on your needs and intentions, you might find me at some of the below h
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/DanAtkinson/ "DanAtkinson on LinkedIn")
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Danbo "@Danbo on Twitter (no relation to any cardboard robots!)")
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/31532/dan-atkinson "31532 on StackOverflow")
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg' alt='website' height='40'>](danbo.me "My personal website which generally just links to Twitter")
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg' alt='website' height='40'>](https://danbo.me "My personal website which generally just links to Twitter")
 
 # Information and disclaimer
 
