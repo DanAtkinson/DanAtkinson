@@ -18,6 +18,6 @@ Depending on your needs and intentions, you might find me at some of the below s
 
 If you wish to connect with me on LinkedIn but we have not previously worked together, please send me an introductory message **first**!
 
-**NB: I am not currently looking for further employment. Please do not contact me with job offers or employment-related interview requests. Thank you.**
+I am not currently looking for further employment. Please do not contact me with job offers or employment-related interview requests. Thank you.**
 
-**NNB:** my Twitter feed is a reflection of my __own personal thoughts and feelings__. They __do not__ reflect those of my employers or any organisations that I work with. That being said, I'm anti-racist, anti-facist, and enjoy discussion around [green energy](https://en.wikipedia.org/wiki/Sustainable_energy), [infosec](https://en.wikipedia.org/wiki/Information_security), the future of education, and seemingly _most_ of the things [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) is involved with.
+My [Twitter feed](https://twitter.com/Danbo) is a reflection of my __own personal thoughts and feelings__. They __do not__ reflect those of my employers or any organisations that I might work with. That being said, I'm anti-racist, anti-facist, and enjoy discussion around [green energy](https://en.wikipedia.org/wiki/Sustainable_energy), [infosec](https://en.wikipedia.org/wiki/Information_security), the future of education, and seemingly _most_ of the things [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) is involved with.
