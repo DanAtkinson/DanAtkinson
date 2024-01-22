@@ -6,10 +6,10 @@ Hello! :wave: My name is Dan Atkinson, I live in Yorkshire, UK with my wife and 
 
 Depending on your needs and intentions, you might find me at some of the below hives of scum and villainy:
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="40">](https://github.com/DanAtkinson "DanAtkinson on Github")
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40">](https://www.linkedin.com/in/DanAtkinson/ "DanAtkinson on LinkedIn")
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="40">](https://twitter.com/Danbo "@Danbo on Twitter (no relation to any cardboard robots!)")
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="stackoverflow" height="40">](https://stackoverflow.com/users/31532/dan-atkinson "31532 on StackOverflow")
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="40">](https://danbo.me/github "DanAtkinson on Github")
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40">](https://danbo.me/linkedin "DanAtkinson on LinkedIn")
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="40">](https://danbo.me/twitter "@Danbo on Twitter (no relation to any cardboard robots!)")
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="stackoverflow" height="40">](https://danbo.me/stackoverflow "31532 on StackOverflow")
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" alt="website" height="40">](https://danbo.me "My personal website which generally just links to Twitter")
 <a rel="me" href="https://infosec.exchange/@danatkinson"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" alt="Mastodon" height="40"></a>
 
